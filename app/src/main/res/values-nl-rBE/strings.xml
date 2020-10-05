@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UCLL-Chrono</string>
+    <string name="BtnStart_label">Start</string>
+    <string name="BtnEnd_label">Stop</string>
+</resources>

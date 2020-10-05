@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UCLL-Chrono</string>
+    <string name="BtnStart_label">Start</string>
+    <string name="BtnEnd_label">End</string>
+    <string name="TimeNull">00:00</string>
+</resources>
